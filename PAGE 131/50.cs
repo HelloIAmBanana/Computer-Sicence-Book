@@ -9,7 +9,7 @@ namespace class_1
         {
             double num = 0, max = 0, oldnum=0;
             int intnum = 0;
-            for (int i = 1; i <= 5; i++)
+            for (int i = 1; i <= 10; i++)
             {
                 Console.WriteLine("enter number");
                 num = double.Parse(Console.ReadLine());
