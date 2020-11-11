@@ -8,7 +8,7 @@ namespace class_1
         static void Main(string[] args)
         {
             double num = 0, max = -999999999999999999, min = 9999999999999999999;
-            for (int i = 1; i <= 5; i++)
+            for (int i = 1; i <= 10; i++)
             {
                 Console.WriteLine("enter number");
                 num = double.Parse(Console.ReadLine());
