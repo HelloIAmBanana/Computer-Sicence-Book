@@ -1,0 +1,11 @@
+1. 0
+2. 0
+3. 1
+4. 9
+5. max
+6. max
+7. height
+8. min
+9. min
+10. height
+11. max
