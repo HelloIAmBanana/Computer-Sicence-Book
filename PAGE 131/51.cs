@@ -12,12 +12,12 @@ namespace class_1
             {
                 Console.WriteLine("enter number");
                 num = double.Parse(Console.ReadLine());
-                if (num >= 0)
+                if (num > 0)
                 {
                     if (min > num)
                         min = num;
                 }
-                else
+                else (num < 0)
                 {
                     if (max < num) 
                         max = num;
